@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "Wayne Sun",
+    "bio": "Welcome to my links",
+    "avatar": "assets/avatar.svg"
+  },
+  "links": [
+    {
+      "title": "X (Twitter)",
+      "url": "https://x.com/RealWayneSun",
+      "icon": "𝕏"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/realwaynesun",
+      "icon": "💻"
+    }
+  ]
+}
